@@ -69,9 +69,6 @@
         <mxCell id="3QI6vvS2v6hBYi7vATli-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="720" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="3QI6vvS2v6hBYi7vATli-1" value="UC-Owner" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry width="840" height="440" as="geometry" />
-        </mxCell>
         <mxCell id="3QI6vvS2v6hBYi7vATli-13" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="180" width="30" height="65" as="geometry" />
         </mxCell>
@@ -233,6 +230,12 @@
               <mxPoint x="436" y="561" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3QI6vvS2v6hBYi7vATli-93" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry width="840" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="3QI6vvS2v6hBYi7vATli-94" value="UC.PetOwnerUseCaseDiagram" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3QI6vvS2v6hBYi7vATli-93">
+          <mxGeometry x="10" y="10" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
